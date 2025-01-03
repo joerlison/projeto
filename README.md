@@ -44,4 +44,4 @@ Esse projeto está sob licença MIT.
 
 ---
 
-Feito com ♥ pela Rocketseat!
+Feito com ♥ pela Rocketseat! 
